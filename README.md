@@ -3,9 +3,7 @@
 **Open-source analytics platform for measuring feature adoption, user journeys, and satisfaction**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/bhed/productdrivers)](https://github.com/bhed/open-productdrivers)
-[![Security: Industry-Ready](https://img.shields.io/badge/Security-Industry--Ready-success.svg)](./SECURITY_ARCHITECTURE.md)
-[![Auth: HMAC-SHA256](https://img.shields.io/badge/Auth-HMAC--SHA256-brightgreen.svg)](./SECURITY_ARCHITECTURE.md)
+[![GitHub Stars](https://img.shields.io/github/stars/bhed/open-productdrivers)](https://github.com/bhed/open-productdrivers)
 
 ProductDrivers is a **privacy-first**, open-source analytics solution designed for product teams who want to understand:
 - 🎯 **Feature Adoption**: Which features drive user engagement and retention
