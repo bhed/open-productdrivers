@@ -568,7 +568,7 @@ Automatically blocks:
 | **Rate Limiting** | ✅ 1000/min | ✅ Yes | ✅ Yes | ✅ Yes |
 | **Self-Hosted** | ✅ Full control | ❌ SaaS only | ❌ SaaS only | ❌ SaaS only |
 
-**Verdict:** ProductDrivers has **superior security** compared to industry leaders.
+**Verdict:** ProductDrivers has **superior security** compared to industry leaders (but you need to implement it accordingly! and ensure you do it with the best standards).
 
 ---
 
