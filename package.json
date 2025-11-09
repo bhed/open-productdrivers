@@ -1,0 +1,28 @@
+{
+  "name": "productdrivers",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Open-source analytics platform for measuring feature adoption, user journeys, and satisfaction",
+  "scripts": {
+    "dev": "pnpm dev:dashboard",
+    "dev:dashboard": "pnpm --filter @productdrivers/dashboard dev",
+    "dev:packages": "pnpm --filter \"@productdrivers/*\" --parallel dev",
+    "build": "pnpm -r build",
+    "build:core": "pnpm --filter @productdrivers/core build",
+    "build:sdk": "pnpm --filter @productdrivers/sdk-js build",
+    "build:dashboard": "pnpm --filter @productdrivers/dashboard build",
+    "lint": "pnpm -r lint",
+    "type-check": "pnpm build:core && pnpm -r type-check",
+    "clean": "pnpm -r clean && rm -rf node_modules"
+  },
+  "devDependencies": {
+    "turbo": "^2.0.3",
+    "typescript": "^5.5.4"
+  },
+  "packageManager": "pnpm@8.15.0",
+  "engines": {
+    "node": ">=18.0.0",
+    "pnpm": ">=8.0.0"
+  }
+}
+
