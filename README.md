@@ -692,4 +692,4 @@ Built with:
 
 **Made with ❤️ by bhed**
 
-[⭐ Star us on GitHub](https://github.com/bhed/open-productdrivers) | [📖 Read the Docs](https://github.com/bhed/open-productdrivers/wiki)
+[⭐ Star us on GitHub](https://github.com/bhed/open-productdrivers) 
